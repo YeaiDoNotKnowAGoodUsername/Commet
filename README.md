@@ -8,3 +8,6 @@ instructions on that coming soon
 ## Please if you see this create a issue with sugestions on what to add to the client I NEED IDEAS
 
 
+## Donation
+I do not expect donation economy is poor Right now but if you want to donate then donate in monero
+send adr 41mzT72WNTGSmWMq9eC5SfhpLqBnaLwTbVU8VhGKhX4Nj5jUz2wcGt711JP36jB1TL2WHLSYKf2TXbNmA2wvUDmY4D3P38r
